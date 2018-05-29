@@ -45,4 +45,16 @@ If wealth is your thing ;)
 ## Jim Rohn
   * https://thepolymathproject.com/books/
     > “Successful people have libraries. The rest have big screen TVs.” – Jim Rohn
+    
+## Bill Gates
+  * http://www.businessinsider.com/why-bill-gates-reads-50-books-a-year-2015-11
+    > Bill Gates says that he reads about 50 books a year.  
+    > "But reading is still the main way that I both learn new things and test my understanding."
+  * https://www.gatesnotes.com/books
+  
+## Ryan Holiday
+  * https://ryanholiday.net/reading-list/
+  
+## Shane Parrish
+  * https://www.fs.blog/reading/
 
