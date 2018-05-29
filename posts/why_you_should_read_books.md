@@ -66,4 +66,11 @@ If wealth is your thing ;)
   
 ## Shane Parrish
   * https://www.fs.blog/reading/
+  
+## Derek Sivers
+  * https://sivers.org/book
+  
+## Jason Evanish
+  * https://jasonevanish.com/books/
+
 
