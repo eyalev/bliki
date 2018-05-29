@@ -8,6 +8,8 @@
 ## Getting New Ideas
 * https://www.fool.com/investing/general/2016/03/02/the-anti-reading-list.aspx
   > Reading is powerful because it opens your a mind up to new ideas you hadn't thought of before.
+* https://thepolymathproject.com/books/
+  > An obsession with books is the path to intellectual distinction. To have new ideas, first acquire those of others.
 
 ## It Makes You a Better Writer
 
