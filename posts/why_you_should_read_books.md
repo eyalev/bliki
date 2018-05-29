@@ -51,16 +51,28 @@ If wealth is your thing ;)
   * https://www.fs.blog/2013/05/the-buffett-formula-how-to-get-smarter/
     > We read a lot. I don’t know anyone who’s wise who doesn’t read a lot.
 
-## Jim Rohn
-  * https://thepolymathproject.com/books/
-    > “Successful people have libraries. The rest have big screen TVs.” – Jim Rohn
-    
+## Elon Musk
+  * https://www.rollingstone.com/culture/features/elon-musk-inventors-plans-for-outer-space-cars-finding-love-w511747
+    > "I was raised by books. Books, and then my parents."
+
 ## Bill Gates
   * http://www.businessinsider.com/why-bill-gates-reads-50-books-a-year-2015-11
     > Bill Gates says that he reads about 50 books a year.  
     > "But reading is still the main way that I both learn new things and test my understanding."
   * https://www.gatesnotes.com/books
   
+## Jeff Bezos
+  * https://www.fs.blog/2013/10/jeff-bezos-read-these-books/
+    > he uses these as frameworks for shaping the future of the company.
+
+## Steve Jobs
+* https://www.inc.com/marcel-schwantes/7-recommended-books-that-inspired-jeff-bezos-steve-jobs-5-other-top-ceos.html
+  > A classic on disruptive innovation, it is noted as the only business book that Apple's Steve Jobs said "deeply influenced" him.
+  
+## Tim Cook
+* https://www.inc.com/marcel-schwantes/7-recommended-books-that-inspired-jeff-bezos-steve-jobs-5-other-top-ceos.html
+  > Reportedly, this is one of Cook's all-time favorite books, and he's been known to hand out copies to his colleagues and new employees.
+
 ## Ryan Holiday
   * https://ryanholiday.net/reading-list/
   
@@ -72,5 +84,11 @@ If wealth is your thing ;)
   
 ## Jason Evanish
   * https://jasonevanish.com/books/
+  
+## Jim Rohn
+  * https://thepolymathproject.com/books/
+    > “Successful people have libraries. The rest have big screen TVs.” – Jim Rohn
+    
+
 
 
