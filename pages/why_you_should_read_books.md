@@ -1,7 +1,7 @@
 
 # Why You Should Read Books
 
-# It Makes You a Better Writer
+## It Makes You a Better Writer
 
 * https://www.fs.blog/2016/03/relationship-between-reading-and-writing/
   > If you want to be a writer, you must do two things above all others: read a lot and write a lot.
