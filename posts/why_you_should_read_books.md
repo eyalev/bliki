@@ -16,6 +16,10 @@
 * https://www.fs.blog/2016/03/relationship-between-reading-and-writing/
   > If you want to be a writer, you must do two things above all others: read a lot and write a lot.
   
+## It's Fun
+* https://www.goodreads.com/quotes/628218-gold-silver-jewels-purple-garments-houses-built-of-marble-groomed
+* > books give delight to the very marrow of one's bones. - Petrarch
+
 ## Wealthy People Read Books
 
 If wealth is your thing ;)
