@@ -27,7 +27,7 @@
   
 ## It's Fun
 * https://www.goodreads.com/quotes/628218-gold-silver-jewels-purple-garments-houses-built-of-marble-groomed
-* > books give delight to the very marrow of one's bones. - Petrarch
+  > books give delight to the very marrow of one's bones. - Petrarch
 
 ## Wealthy People Read Books
 
