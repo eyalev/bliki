@@ -1,17 +1,26 @@
 
 # Why You Should Read Books
 
-## Learning From The Experience of Others
+- [Why You Should Read Books](#why-you-should-read-books)
+  - [Learn From The Experience of Others](#learn-from-the-experience-of-others)
+  - [Get New Ideas](#get-new-ideas)
+  - [Become a Better Writer](#become-a-better-writer)
+  - [It's Fun](#its-fun)
+  - [Wealthy People Read Books](#wealthy-people-read-books)
+- [Who Reads Books](#who-reads-books)
+
+
+## Learn From The Experience of Others
 * https://www.groovehq.com/support/best-customer-service-books
   > When it comes to improving ourselves and our lives, there’s no single better investment of your time and money than books. What other investment gives you access to an expert’s knowledge that took them years — and sometimes, a lifetime — to gather and distill for you? All for less than $15 and a few hours (or days).
 
-## Getting New Ideas
+## Get New Ideas
 * https://www.fool.com/investing/general/2016/03/02/the-anti-reading-list.aspx
   > Reading is powerful because it opens your a mind up to new ideas you hadn't thought of before.
 * https://thepolymathproject.com/books/
   > An obsession with books is the path to intellectual distinction. To have new ideas, first acquire those of others.
 
-## It Makes You a Better Writer
+## Become a Better Writer
 
 * https://www.fs.blog/2016/03/relationship-between-reading-and-writing/
   > If you want to be a writer, you must do two things above all others: read a lot and write a lot.
