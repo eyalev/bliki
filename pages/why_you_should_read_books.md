@@ -36,4 +36,7 @@ If wealth is your thing ;)
   * https://www.fs.blog/2013/05/the-buffett-formula-how-to-get-smarter/
     > We read a lot. I don’t know anyone who’s wise who doesn’t read a lot.
 
+## Jim Rohn
+  * https://thepolymathproject.com/books/
+    > “Successful people have libraries. The rest have big screen TVs.” – Jim Rohn
 
